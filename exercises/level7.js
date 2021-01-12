@@ -5,7 +5,7 @@
 // Name the function "finalFunction"
 
 function finalFunction(num) {
-    var arr = [];
+    const arr = [];
     for (x = 0; x < num; x++) {
         arr.push("Here!");
     }

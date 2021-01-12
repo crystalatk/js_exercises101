@@ -35,9 +35,9 @@ function lvl1exercise5 () {
 
 function lvl1exercise6 () {
   // Declare and instantiate an object containing the key-value pairs key1 -> "Hello World!" and key2 -> 4, and return it
-  let keyValue = {
-    "key1": "Hello World!",
-    "key2": 4,
+  const keyValue = {
+    key1: "Hello World!",
+    key2: 4,
   };
   return keyValue;
 
